@@ -7,9 +7,7 @@ Setting:
 
 C:\Users\dsv\Desktop\EyeCompass0205\PixelProject_Data\StreamingAssets\thisJson
 
-{
-
-"Width":1900,   Canvas size
+{"Width":1900,   Canvas size
 
 "Height":1000,  Canvas size
 
