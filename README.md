@@ -3,7 +3,7 @@ A gaze control drawing system
 
 Version 2021.02.05
 
-Setting:
+(1) Setting:
 
 C:\Users\dsv\Desktop\EyeCompass0205\PixelProject_Data\StreamingAssets\thisJson
 
@@ -17,7 +17,7 @@ C:\Users\dsv\Desktop\EyeCompass0205\PixelProject_Data\StreamingAssets\thisJson
 
 "Lerper3":0.0111111}  Damping speed, recommend within 0.01 to 0.005.
 
-Exiting:
+(2) Exiting:
 
 Click on the button "Save/Exit"
 
