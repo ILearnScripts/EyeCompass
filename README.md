@@ -8,7 +8,7 @@ The drawing commands can be Undo and Redo at the corners in the leftside. Can al
 
 In the left menu, the View option is to disable the cursor to draw on the brush. In this mode, the canvas can be nudged up, left, down, right, and allow the user to make observations. It can be switch back to the Draw option. 
 
-
+To exit the system, please click on the button "Save/Exit", choose "Yes" to save your image in the Document folder. Click "No" to exit without saving the file. 
 
 (1) Setting:
 
