@@ -2,13 +2,13 @@
 
 Version 2021.02.05
 
-The EyeCompass is a gaze control drawing system enabling free-eye drawing. It uses gaze point to navigate with the brush and draws basic lines on the canvas. Starting drawing and stopping drawing are activated by the dwell click in 0.8 second. When the brush is activated, a circular compass cursor appears. Smooth curves can be drawn by gazeing through the edge of the cursor. It is also easy to drawing staight lines. The directional needle is to indicate the brush direction. Several types of the compass can be selected. The spiral cursor is used to compensate the eye tracking error for drawing circle. The directional needle array is used to draw strainght lines in a certain direction precisely. 
+The EyeCompass is a gaze control drawing system enabling free-eye drawing. In the project folder, clicking the "PixelProject" to open the application. This system uses gaze point to navigate with the brush and draws basic lines on the canvas. Starting drawing and stopping drawing are activated by the dwell click in a customized dwell time, for example, 1 second. When the brush is activated, a compass interface appears on the cursor. Smooth curves can be drawn by gazing through the edge of the cursor and moving along. It is also easy to draw straight lines with the compass interface. The directional needle can indicate the brush direction and control the angles of drawn lines. Several types of the compass interfaces can be selected. The spiral cursor is used to compensate with eye tracking errors when drawing circle. The directional needle array is used to draw strainght lines in a certain direction precisely. 
 
-The drawing commands can be Undo and Redo at the corners in the leftside. Can also be erased. The brush size can be set by the Brush Size option. The canvas can be zoomed in or zoomed out at the corner in the rightside. The grid on the canvas is an assistive guideline for orienting the eyes. It can be closed or opened by the Grid Off or Grid On option. 
+The drawing commands can be Undo and Redo at the corners of the leftside. It can also conduct erase with Eraser. The brush size can be set by the Brush Size option. The canvas can be zoomed in or zoomed out at the corner of the rightside. The grid on the canvas is an assistive guideline for orienting the eyes. It can be closed or opened by the Grid Off or Grid On option. 
 
-In the left menu, the View option is to disable the cursor to draw on the brush. In this mode, the canvas can be nudged up, left, down, right, and allow the user to make observations. It can be switch back to the Draw option. 
+In the left menu, the View option is to disable the cursor to draw on the canvas. In this mode, the canvas can be nudged left, up, right, and down. This mode allows the user to make observations and avoid involuntary drawing. It can be switched back to the Draw mode by the Draw option. 
 
-To exit the system, please click on the button "Save/Exit", choose "Yes" to save your image in the Document folder. Click "No" to exit without saving the file. 
+To exit the system, please click on the button "Save/Exit". Choosing "Yes" to save your image in the Document folder, or "No" to exit without saving the file. 
 
 (1) Setting:
 
