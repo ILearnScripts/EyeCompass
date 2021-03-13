@@ -31,3 +31,5 @@ Click on the button "Save/Exit"
 Yes: Save the image to the folder Document of the user. And exit.
 
 No: Do not save the image and exit.
+
+Introduction video: https://youtu.be/FSMlCnPB27k
