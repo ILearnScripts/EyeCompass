@@ -28,7 +28,7 @@ C:\Users\dsv\Desktop\EyeCompass0205\PixelProject_Data\StreamingAssets\thisJson
 
 Click on the button "Save/Exit"
 
-Yes: Save the image to the folder Document of the user. And exit.
+Yes: Save the image to the Document folder under the root of the User folder in the computer. And exit.
 
 No: Do not save the image and exit.
 
