@@ -1,4 +1,16 @@
 # EyeCompass 
+Please refer to the paper: Eyes can draw: A high-fidelity free-eye drawing method with unimodal gaze control
+Huang L, Westin T, Eladhari M P, et al. Eyes can draw: A high-fidelity free-eye drawing method with unimodal gaze control[J]. International Journal of Human-Computer Studies, 2023, 170: 102966.
+
+@article{huang2023eyes,
+  title={Eyes can draw: A high-fidelity free-eye drawing method with unimodal gaze control},
+  author={Huang, Lida and Westin, Thomas and Eladhari, Mirjam Palosaari and Magn{\'u}sson, Sindri and Chen, Hao},
+  journal={International Journal of Human-Computer Studies},
+  volume={170},
+  pages={102966},
+  year={2023},
+  publisher={Elsevier}
+}
 
 Version 2021.02.05 (Introduction video: https://youtu.be/FSMlCnPB27k)
 
